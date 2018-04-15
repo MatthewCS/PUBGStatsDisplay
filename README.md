@@ -1,5 +1,7 @@
 # PUBGStatsDisplay
 
+[Check out our project on devpost!](https://devpost.com/software/pubg-stats-display)
+
 Our program is a Java/Swing application allowing players to choose their four favorite items from the game, along with the ability to input their own PUBG username to view their most recent stats from the past 14 days. With this data, a custom image is generated, and is able to be saved locally as a .PNG file.
 
 The stats are obtained via the PUBG API through our own custom-made class tailored to our needs We also used custom classes based on Swing for the different UI elements of our window.
