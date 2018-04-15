@@ -10,9 +10,9 @@ After this hackathon is over, our project will be posted onto GitHub for anyone 
 
 * **NOTES:**
   + Made for Hack Upstate XI
-	+ You must grab your own API key via https://developer.playbattlegrounds.com/#, then use your key so that it is the only text in APIKEY.txt
+  + You must grab your own API key via https://developer.playbattlegrounds.com/#, then use your key so that it is the only text in APIKEY.txt
   + Assets grabbed from https://github.com/pubg/api-assets
-	+ Error pop-ups were hastily developed. The error is most likely a 404 (player not found) or a 429 (too many requests, slow down) with a NullPointerException
+  + Error pop-ups were hastily developed. The error is most likely a 404 (player not found) or a 429 (too many requests, slow down) with a NullPointerException
   + Implements https://github.com/rkalla/imgscalr and https://github.com/fangyidong/json-simple
 
 # CREDITS
