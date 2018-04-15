@@ -25,3 +25,4 @@ After this hackathon is over, our project will be posted onto GitHub for anyone 
   + https://github.com/Limey12 (API)
   + https://github.com/kkzero2016 (API)
   + **Special thanks to PUBG Madglory for much needed and appreciated personal help with this project**
+  + **Special thanks to https://github.com/ominousmango and https://github.com/aloyark for sharing with us a great work area at Hack Upstate XI**
